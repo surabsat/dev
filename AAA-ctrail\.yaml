@@ -1,7 +1,7 @@
 Parameters:
   TrailName:
     Type: String
-    Default: "CFN-test-1"
+    Default: "CFN-test-2"
   BucketName:
     Type: String
     Default: newdemolevel
